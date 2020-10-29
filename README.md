@@ -1,4 +1,4 @@
-# postsPage
+# PostsPage
 
 ### A base tutorial project using React + Redux
 
