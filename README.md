@@ -2,7 +2,7 @@
 
 ### A base tutorial project using React + Redux
 
-This is a tutorial project that uses the Laravel framework. This project was made following [this tutorial video](https://youtu.be/93p3LxR9xfM).
+This is a tutorial project that uses the React framework with adition of the Redux packages. This project was made following [this tutorial video](https://youtu.be/93p3LxR9xfM).
 
 Minor revisions may be made in the future.
 
